@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F8FC-05CA
-
- Directory of C:\Users\40010003\Desktop\my project
-
-31-08-2020  16:14    <DIR>          .
-31-08-2020  16:14    <DIR>          ..
-31-08-2020  16:14                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  127,516,561,408 bytes free
+tested
